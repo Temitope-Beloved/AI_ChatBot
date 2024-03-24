@@ -1,10 +1,10 @@
 import React from 'react'
-import Navbar from './Components/Sidebar/Navbar'
+import Sidebar from './Components/Sidebar/Sidebar'
 
 const App = () => {
   return (
-    <div>
-      <Navbar></Navbar>
+    <div className=''>
+      <Sidebar/>
       
     </div>
   )

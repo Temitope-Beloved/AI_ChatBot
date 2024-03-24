@@ -1,0 +1,20 @@
+{
+ "podcasts": [  {
+        "id": 1,
+        "title": "Podcast Title 1",
+        "podcaster": "Podcaster 1",
+        "followers": 1000
+    },
+    {
+        "id": 2,
+        "title": "Podcast Title 2",
+        "podcaster": "Podcaster 2",
+        "followers": 1500
+    },
+    {
+        "id": 3,
+        "title": "Podcast Title 3",
+        "podcaster": "Podcaster 3",
+        "followers": 2000
+    }]
+}
